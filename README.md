@@ -163,7 +163,8 @@ Target=180  CCR=2450  Pulse=2.450ms
 
 截图见：
 
-![串口输出](docs/serial.png)
+<img width="937" height="560" alt="image" src="https://github.com/user-attachments/assets/c34e2ad2-c939-42a6-bede-3515c134f6e1" />
+
 
 ---
 
